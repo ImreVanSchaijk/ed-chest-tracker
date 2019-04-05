@@ -1,0 +1,18 @@
+{
+  "appName": "ED chest tracker",
+  "description": "Keeps track of the Elite Dungeon chest",
+  "appUrl": "/ed-loot/index.html",
+  "configUrl": "/ed-loot/config.json",
+  "iconUrl": "/ed-loot/chest.png",
+  "defaultWidth": 190,
+  "defaultHeight": 190,
+  "minWidth": 50,
+  "minHeight": 50,
+  "maxWidth": 512,
+  "maxHeight": 512,
+  "requestHandlers": [ ],
+  "activators": [
+
+  ],
+  "permissions": "pixel,overlay"
+}

@@ -1,0 +1,20 @@
+{
+    "extends": "airbnb",
+    "rules": {
+      "linebreak-style": 0,
+      "react/jsx-filename-extension": 0,
+      "react/no-did-mount-set-state": 0,
+      "react/no-did-update-set-state": 0,
+      "import/no-cycle": 0
+    },
+    "env": {
+      "browser": true
+    },
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "paths": ["src"]
+        }
+      }
+    }
+}
